@@ -1,0 +1,23 @@
+
+[
+  {
+    "category": "Frontend Development",
+    "items": ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js"]
+  },
+  {
+    "category": "React & API Ecosystem",
+    "items": ["React Hooks", "Context API", "React Router", "Axios", "TanStack Query", "REST APIs"]
+  },
+  {
+    "category": "UI & Styling",
+    "items": ["Tailwind CSS", "Bootstrap", "GSAP", "Responsive Design"]
+  },
+  {
+    "category": "WordPress & CMS",
+    "items": ["WordPress", "Elementor", "Gutenberg", "Squarespace", "Theme Customization"]
+  },
+  {
+    "category": "Tools & AI",
+    "items": ["Git", "GitHub", "Figma", "Photoshop", "FileZilla", "Claude AI", "ChatGPT", "GitHub Copilot"]
+  }
+]

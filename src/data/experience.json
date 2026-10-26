@@ -1,0 +1,18 @@
+[
+  {
+    "company": "Dazzlebirds Web Solutions",
+    "role": "Frontend Developer",
+    "period": "2024 – Present",
+    "location": "India",
+    "url": "https://dazzlebirds.com/",
+    "link_button": "View Experience",
+    "points": [
+      "Developed responsive web interfaces using HTML5, CSS3, Bootstrap, Tailwind CSS, and WordPress.",
+      "Built and customized WordPress websites using Elementor, including custom theme setup and development.",
+      "Set up and deployed custom WordPress themes on servers using FileZilla and cPanel.",
+      "Translated Figma designs and reference layouts into polished, responsive user interfaces.",
+      "Optimized mobile responsiveness, cross-browser compatibility, and overall UI consistency.",
+      "Managed website deployment, file transfers, maintenance, and frontend enhancements across multiple projects."
+    ]
+  }
+]

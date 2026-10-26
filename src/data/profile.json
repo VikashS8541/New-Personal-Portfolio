@@ -1,0 +1,26 @@
+
+{
+  "name": "Vikash Sharma",
+  "role": "Frontend Developer",
+  "headline": "Frontend Developer building responsive, user-focused web experiences.",
+  "intro": "Frontend Developer with 2.5+ years of experience building responsive, user-focused websites using HTML, CSS, JavaScript, Tailwind CSS, Bootstrap and WordPress, with a growing focus on React.js.",
+  "location": "India",
+  "email": "vs591890@gmail.com",
+  "phone": "8541076400",
+  "about": [
+    "I'm a Frontend Developer at Dazzlebirds Web Solutions, focused on building responsive, user-friendly websites and translating design concepts into polished digital experiences.",
+    "My experience includes HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and WordPress development. I enjoy turning complex design requirements into clean, maintainable interfaces that work seamlessly across devices.",
+    "I'm currently expanding my expertise in React.js and modern frontend development, with a focus on reusable components, API integration, and building interactive web applications.",
+    "I believe great frontend development combines thoughtful design, reliable functionality, and attention to detail."
+  ],
+  "stats": [
+    {
+      "value": "2.5+",
+      "label": "Years of Experience"
+    },
+    {
+      "value": "2",
+      "label": "Languages (English/Hindi)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+
+[
+  {
+    "title": "Responsive Web Development",
+    "text": "Building fast, mobile-friendly websites using HTML, CSS, JavaScript, Bootstrap and Tailwind CSS."
+  },
+  {
+    "title": "WordPress & CMS Development",
+    "text": "Creating and customizing WordPress websites using Elementor, Gutenberg and CMS-based solutions."
+  },
+  {
+    "title": "React.js Development",
+    "text": "Building interactive applications with reusable components, React Hooks, state management and REST API integration."
+  },
+  {
+    "title": "UI Implementation & Optimization",
+    "text": "Transforming design references into polished interfaces with responsive layouts, cross-browser compatibility and consistent user experiences."
+  }
+]

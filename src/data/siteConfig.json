@@ -1,0 +1,116 @@
+{
+  "title": "Vikash Sharma \u2014 Frontend Developer",
+  "description": "Portfolio of Vikash Sharma, a frontend developer building responsive interfaces with React, Tailwind CSS and WordPress.",
+  "url": "",
+  "theme": {
+    "default": "dark",
+    "allowToggle": true
+  },
+  "fonts": {
+    "heading": "'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif",
+    "body": "'Inter', system-ui, sans-serif",
+    "accent": "'Instrument Serif', Georgia, serif"
+  },
+  "colors": {
+    "light": {
+      "bg": "#f4f1ea",
+      "surface": "#fbf9f4",
+      "text": "#111012",
+      "muted": "#66636d",
+      "border": "#d9d3c6",
+      "accent": "#5b3df5",
+      "accentText": "#ffffff",
+      "accentOnInverse": "#c6ff3d",
+      "inverse": "#111012",
+      "inverseText": "#f4f1ea"
+    },
+    "dark": {
+      "bg": "#0a0a0b",
+      "surface": "#131316",
+      "text": "#f2efe8",
+      "muted": "#8d8a94",
+      "border": "#26262b",
+      "accent": "#c6ff3d",
+      "accentText": "#0a0a0b",
+      "accentOnInverse": "#5b3df5",
+      "inverse": "#f2efe8",
+      "inverseText": "#0a0a0b"
+    }
+  },
+  "animations": {
+    "enabled": true,
+    "loader": true,
+    "customCursor": true,
+    "smoothScroll": true
+  },
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home"
+    },
+    {
+      "id": "work",
+      "label": "Work"
+    },
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "expertise",
+      "label": "Expertise"
+    },
+    {
+      "id": "experience",
+      "label": "Experience"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ],
+  "sections": {
+    "work": true,
+    "about": true,
+    "expertise": true,
+    "experience": true,
+    "education": true,
+    "services": true,
+    "contact": true
+  },
+  "projectOrder": "featured-first",
+  "resume": "/files/resume.pdf",
+  "workTabs": [
+    {
+      "id": "all",
+      "label": "All"
+    },
+    {
+      "id": "react",
+      "label": "React"
+    },
+    {
+      "id": "wordpress",
+      "label": "WordPress"
+    },
+    {
+      "id": "html-css-js",
+      "label": "HTML/CSS/JS"
+    },
+    {
+      "id": "other",
+      "label": "Other"
+    }
+  ],
+  "showEmptyTabs": false,
+  "marquee": [
+    "React.js",
+    "Tailwind CSS",
+    "WordPress",
+    "Elementor",
+    "GSAP",
+    "JavaScript",
+    "Responsive UI",
+    "Figma"
+  ]
+}
