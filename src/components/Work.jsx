@@ -89,8 +89,8 @@ export default function Work() {
                   <div className="overflow-hidden">
                     <div className="grid gap-8 pb-12 md:grid-cols-12 md:gap-12 md:pl-[4rem]">
                       <div className="md:col-span-7">
-                        <div className="aspect-[4/3] overflow-hidden rounded-2xl border border-line bg-surface">
-                          <img src={p.thumbnail} alt={`Illustrative interface preview for ${p.title} (placeholder visual)`} width="1200" height="900" loading="lazy" decoding="async" className="size-full object-cover" />
+                        <div className="overflow-hidden rounded-2xl border border-line bg-surface">
+                          <img src={p.thumbnail} alt={`Illustrative interface preview for ${p.title} (placeholder visual)`} loading="lazy" decoding="async" className="block h-auto w-full" />
                         </div>
                       </div>
                       <div className="md:col-span-5">
@@ -116,8 +116,8 @@ export default function Work() {
         </ul>
         <p className="mt-6 text-xs text-muted">Previews are illustrative placeholder visuals, not screenshots. Live links open the deployed apps.</p>
       </div>
-      <div ref={preview} aria-hidden="true" className="pointer-events-none fixed left-0 top-0 z-40 hidden aspect-[4/3] w-[22rem] overflow-hidden rounded-xl border border-line bg-surface shadow-2xl md:block">
-        {hovered && <img src={hovered.thumbnail} alt="" className="size-full object-cover" />}
+      <div ref={preview} aria-hidden="true" className="pointer-events-none fixed left-0 top-0 z-40 hidden w-[22rem] overflow-hidden rounded-xl border border-line bg-surface shadow-2xl md:block">
+        {hovered && <img src={hovered.thumbnail} alt="" className="block h-auto w-full" />}
       </div>
     </section>
   )
